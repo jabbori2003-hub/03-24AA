@@ -18,5 +18,5 @@ def eng_kichik_element(A):
     return min_element
 #Foydalanish
 massiv = [3,7,2,9,1,11,12,23]
-print("Eng Kottasi",eng_kotta_element  (massiv))
+print("Eng Kattasi",eng_kotta_element  (massiv))
 print("Egn Kichigi",eng_kichik_element (massiv))
